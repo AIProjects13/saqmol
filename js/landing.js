@@ -4,7 +4,7 @@
   const WA = '50258253416';
   // Idiomas con juego de capturas propio; los demás usan las capturas en español.
   const SHOT_LANGS = ['es'];
-  const SHOTS_V = '202610224';   // súbelo al regenerar las capturas
+  const SHOTS_V = '202610225';   // súbelo al regenerar las capturas
 
   // ── Textos en inglés (el español está escrito en el HTML)
   const EN = {
