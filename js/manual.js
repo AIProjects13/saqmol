@@ -1,6 +1,6 @@
-/* Saqmol · manual de uso: índice que sigue la lectura, WhatsApp con mensaje y año. */
+/* CHIIK · manual de uso: índice que sigue la lectura, WhatsApp con mensaje y año. */
 (function () {
-  const MSG = '¡Hola! Leí el manual de Saqmol y me gustaría saber más para nuestra granja.';
+  const MSG = '¡Hola! Leí el manual de CHIIK y me gustaría saber más para nuestra granja.';
   document.querySelectorAll('[data-wa]').forEach((a) => { a.href = 'https://wa.me/50258253416?text=' + encodeURIComponent(MSG); });
 
   const hdr = document.querySelector('.hdr');
